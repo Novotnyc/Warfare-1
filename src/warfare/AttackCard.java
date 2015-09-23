@@ -53,7 +53,7 @@ public class AttackCard extends Card{
                 break;
             case 1:
                 inter = BOARD;
-                
+                //may use code[1] in later implementation
                 break;
             default:
                 //catch if not 0 or 1 and print some error
